@@ -40,7 +40,7 @@ This extension requires a Python backend to function. Follow these steps to set 
 ## 🖼️ Preview
 
 ![Preview of the YouTube Comment Sentiment Analyzer](Youtube-sentiment-analyser/youtube-sentiment-api/images/sentiment_1.png)
-![Preview of the YouTube Comment Sentiment Analyzer](Youtube-sentiment-analyser/youtube-sentiment-api/images/sentiment_2.png)
+![Preview of the YouTube Comment Sentiment Analyzer]([Youtube-sentiment-analyser/youtube-sentiment-api/images/sentiment_2.png](https://github.com/AkshatThecoder/Youtube-sentiment-analyser/blob/main/youtube-sentiment-analyzer/youtube-sentiment-api/images/sentiment_2.png?raw=true))
 
 ## 💡 How to Use
 
